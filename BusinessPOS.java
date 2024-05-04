@@ -1,16 +1,3 @@
-/**
- * Business POS
- * 
- * This program is basically a cash register for a 
- * restaurant. It allows the user to click on buttons
- * of food items and displays the food items with the price 
- * on the screen. It also calculates all the costs and keeps track of
- * the number of items bought. 
- *
- * @author Fatima Syeda
- * @date 14 June 2023
- */
-
 //Import Java Swing libraries
 import javax.swing.*;
 import javax.swing.border.LineBorder;
