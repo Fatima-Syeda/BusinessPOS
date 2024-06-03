@@ -135,12 +135,12 @@ public class BusinessPOS extends JFrame implements ActionListener {
 		westP.add(bTotal);
 
 		// Instantiate the JLabels and JTextFields and add to panels
-		lStoreName = new JLabel("Moody Foodies");
-		lStoreName.setFont(new Font("Vladimir Script", Font.BOLD, 35));
+		lStoreName = new JLabel("United Flavours");
+		lStoreName.setFont(new Font("Script MT Bold", Font.BOLD, 35));
 		lStoreName.setHorizontalAlignment(SwingConstants.CENTER);
 		northP.add(lStoreName);
 
-		lSlogan = new JLabel("If you're feeling moody, come to Moody Foodies!");
+		lSlogan = new JLabel("Global Tastes, United On Your Plate");
 		lSlogan.setFont(new Font("Script MT Bold", Font.PLAIN, 14));
 		lSlogan.setHorizontalAlignment(SwingConstants.CENTER);
 		lSlogan.setForeground(Color.DARK_GRAY);
