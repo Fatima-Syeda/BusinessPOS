@@ -23,6 +23,7 @@ Developed a comprehensive Business Point of Sale (POS) application using Java Sw
 ![image](https://github.com/user-attachments/assets/3d091411-e95c-4441-ba63-ffb16f30f020)
 
 <h3>Clicking on the "Total" button calculates and displays information about the transaction</h3>
+
 ![image](https://github.com/user-attachments/assets/d143c97c-756b-434a-b66d-44096991c97a)
 
 <h3>The "clear" button resets everything</h3>
