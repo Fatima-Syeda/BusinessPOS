@@ -36,7 +36,7 @@ Developed a comprehensive Business Point of Sale (POS) application using Java Sw
   <li>Java</li>
   <li>Java Swing GUI</li>
   <li>AWT</li>
-  <li>Java Event Handeling</li>
+  <li>Java Event Handling</li>
 </ul>
 
 
